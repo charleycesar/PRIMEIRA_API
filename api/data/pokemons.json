@@ -1,0 +1,22 @@
+{
+  "pokemons": [
+    {
+      "id": 2,
+      "name": "Charizard",
+      "type": "Fire / Flying",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
+    },
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "type": "Grass / Poison",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png"
+    },
+    {
+      "id": 4,
+      "name": "Blastoise",
+      "type": "Water",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png"
+    }
+  ]
+}
