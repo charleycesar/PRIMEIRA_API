@@ -1,22 +1,64 @@
 {
   "pokemons": [
     {
-      "id": 2,
-      "name": "Charizard",
-      "type": "Fire / Flying",
-      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
+      "id": "004",
+      "name": "Charmander",
+      "type": "Fire",
+      "color": "red",
+      "evolutions": [
+        {
+          "id": "005",
+          "name": "Charmeleon",
+          "type": "Fire",
+          "color": "red"
+        },
+        {
+          "id": "006",
+          "name": "Charizard",
+          "type": "Fire / Flying",
+          "color": "red"
+        }
+      ]
     },
     {
-      "id": 3,
-      "name": "Venusaur",
+      "id": "001",
+      "name": "Bulbasaur",
       "type": "Grass / Poison",
-      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png"
+      "color": "green",
+      "evolutions": [
+        {
+          "id": "002",
+          "name": "Ivysaur",
+          "type": "Grass / Poison",
+          "color": "green"
+        },
+        {
+          "id": "003",
+          "name": "Venusaur",
+          "type": "Grass / Poison",
+          "color": "green"
+        }
+      ]
     },
     {
-      "id": 4,
-      "name": "Blastoise",
+      "id": "007",
+      "name": "Squirtle",
       "type": "Water",
-      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png"
+      "color": "blue",
+      "evolutions": [
+        {
+          "id": "008",
+          "name": "Wartortle",
+          "type": "Water",
+          "color": "blue"
+        },
+        {
+          "id": "009",
+          "name": "Blastoise",
+          "type": "Water",
+          "color": "blue"
+        }
+      ]
     }
   ]
 }
